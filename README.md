@@ -1,2 +1,2 @@
 # Portfolio
-Showcase of Game Dermos For Implementation in Ad Campaigns
+Showcase of Game Demos For Implementation in Ad Campaigns
