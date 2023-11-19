@@ -1,0 +1,128 @@
+.socialmediaicons .fa:hover {
+    color: white;
+    opacity: 0.8;
+}
+
+.socialmediaicons .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.socialmediaicons2 .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    border-radius: 50%;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.socialmediaicons .fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.socialmediaicons .fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.socialmediaicons .fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+.socialmediaicons .fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.socialmediaicons .fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.socialmediaicons .fa-instagram {
+    background: #881612;
+    color: white;
+}
+
+.socialmediaicons .fa-pinterest {
+    background: #cb2027;
+    color: white;
+}
+
+.socialmediaicons .fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.socialmediaicons .fa-skype {
+    background: #00aff0;
+    color: white;
+}
+
+.socialmediaicons .fa-android {
+    background: #a4c639;
+    color: white;
+}
+
+.socialmediaicons .fa-dribbble {
+    background: #ea4c89;
+    color: white;
+}
+
+.socialmediaicons .fa-vimeo {
+    background: #45bbff;
+    color: white;
+}
+
+.socialmediaicons .fa-tumblr {
+    background: #2c4762;
+    color: white;
+}
+
+.socialmediaicons .fa-vine {
+    background: #00b489;
+    color: white;
+}
+
+.socialmediaicons .fa-foursquare {
+    background: #45bbff;
+    color: white;
+}
+
+.socialmediaicons .fa-stumbleupon {
+    background: #eb4924;
+    color: white;
+}
+
+.socialmediaicons .fa-flickr {
+    background: #f40083;
+    color: white;
+}
+
+.socialmediaicons .fa-yahoo {
+    background: #430297;
+    color: white;
+}
+
+.socialmediaicons .fa-soundcloud {
+    background: #ff5500;
+    color: white;
+}
+
+.socialmediaicons .fa-reddit {
+    background: #ff5700;
+    color: white;
+}
+
+.socialmediaicons .fa-rss {
+    background: #ff6600;
+    color: white;
+}
